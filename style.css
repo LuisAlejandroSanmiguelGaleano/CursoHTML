@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+    background-color: #ffffff;
+  }
+  
+  header {
+    background-color: #000000;
+    text-align: center;
+    color: #ffffff;
+    padding: 10px;
+  }
+  
+  h1 {
+    font-size: 2em;
+    font-weight: bold;
+  }
+  
+  section {
+    margin-bottom: 10px;
+  }
+  
+  section.imagen {
+    
+    text-align: center;
+  }
+  
+  section.biografia {
+    text-align: center;
+    list-style-type: none;
+  }
+  
+  section.estudios {
+    list-style-type: none;
+  }
+  
+  section.intereses {
+    list-style-type: none;
+  }
+  
+  section.habilidades {
+    list-style-type: none;
+  }
+  
+  section.enlaces {
+    list-style-type: none;
+  }
+  
+  a {
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
